@@ -14,7 +14,7 @@
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
-  height: 89vh;
+  gap: 80px;
   padding: 50px 50px;
 }
 
@@ -23,5 +23,7 @@
   background-color: white;
   height: 180px;
   width: 180px;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
