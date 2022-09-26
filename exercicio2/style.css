@@ -6,4 +6,11 @@
 main{
   padding-top: 20px;
   display: flex;
+  position: relative;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+figure{
+  display: flex;
+  flex-direction: column;
 }
